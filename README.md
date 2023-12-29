@@ -1,4 +1,4 @@
-# Esse projeto foi feito a partir dessas intruções:
+# Desafio:
 
 ## Módulo 3 - Trilha HTML
 
